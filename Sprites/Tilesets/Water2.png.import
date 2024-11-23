@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://behy7x0uymkv5"
-path="res://.godot/imported/Basic Charakter Spritesheet.png-39d08c81a5e76ecfdb87bd7cf91126ca.ctex"
+uid="uid://cjy3mmmvmx78k"
+path="res://.godot/imported/Water2.png-6e9490e4c08bd699aa8fa72764c412d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Player/Basic Charakter Spritesheet.png"
-dest_files=["res://.godot/imported/Basic Charakter Spritesheet.png-39d08c81a5e76ecfdb87bd7cf91126ca.ctex"]
+source_file="res://Sprites/Tilesets/Water2.png"
+dest_files=["res://.godot/imported/Water2.png-6e9490e4c08bd699aa8fa72764c412d4.ctex"]
 
 [params]
 
